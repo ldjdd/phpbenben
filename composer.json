@@ -1,20 +1,9 @@
 {
-　　"name": "ldjdd/phpbenben",
-　　"description": "library for php",
-　　"license": "MIT",
-　　"authors": [
-  　　{
-  　　  "name": "ldj",
-  　　  "email": "ldjbenben@sina.com"
-  　　}
-　　],
-　　"minimum-stability": "dev",
-　　"require": {
-　　  "php": ">=7.0.0"
-　　},
-　　"autoload": {
-  　　"psr-4": {
-    　　"benben\\": "src"
-  　　}
-　　}
+    "name": "ldjdd/phpbenben",
+    "description": "Yii 2 Basic Project Template",
+    "autoload": {
+        "psr-4": {
+            "benben\\": "src/"
+        }
+    }
 }
